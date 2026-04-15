@@ -179,7 +179,6 @@ We welcome contributions from the community. Please see our [CONTRIBUTING.md](CO
 <div align="center">
 
 **Built for the next generation of AI efficiency.**  
-Developed by [Ismail Sajid](https://github.com/Ismail-2001/) & The agent-distiller Community.
 
 [GitHub](https://github.com/Ismail-2001/agent-distiller) | [Documentation](#) | [Support](#)
 
